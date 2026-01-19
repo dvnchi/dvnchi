@@ -15,4 +15,4 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvnchi&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvnchi&size_weight=0.5&count_weight=0.5)
