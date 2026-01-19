@@ -19,4 +19,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvnchi&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvnchi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
