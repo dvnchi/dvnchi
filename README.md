@@ -19,6 +19,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvnchi&layout=compact&exclude_repo=stageusWeek9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvnchi&layout=compact)
 
 
