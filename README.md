@@ -9,20 +9,17 @@
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   
-  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <br/> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/amazon_ec2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white">
   
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvnchi&layout=compact" alt="Top Langs"/>
-
+  <br/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvnchi&layout=compact&exclude_repo=stageusWeek9&theme=solarized-light" alt="Top Langs" />
 </div>
-
 
 
 
