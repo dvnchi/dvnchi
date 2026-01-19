@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-  <br/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvnchi&layout=compact&exclude_repo=stageusWeek9&theme=solarized-light" alt="Top Langs" />
+  <br/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvnchi&layout=compact" alt="Top Langs" />
 </div>
 
 
