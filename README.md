@@ -1,5 +1,5 @@
 ## 🚀 Hi, I'm Cho Heeju.
-- An aspiring Backend Developer diving into TypeScript and NestJS.
+- An aspiring Backend Developer interested in **TypeScript** and **NestJS**. 
 
 ## 🛠️ Tech Stack
 
