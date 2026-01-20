@@ -20,8 +20,10 @@
 
   <br/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvnchi&layout=compact" alt="Top Langs" />
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=java)
+  
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=java)
 
 
 
